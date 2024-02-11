@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/wodecki/Dysk Google/2. Areas/1. Szkolenia/2. PJATK/! PJATK Lato 2024/ASI/gohugo/quickstart",
+	"sourceRoot": "/Users/wodecki/Dysk Google/2. Areas/1. Szkolenia/2. PJATK/! PJATK Lato 2024/ASI/gohugo/my-new-repo",
 	"sources": [
 		"ananke/css/main.css"
 	],
