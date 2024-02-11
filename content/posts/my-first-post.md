@@ -1,10 +1,10 @@
 +++
 title = 'My First Post'
-date = 2024-02-11T09:41:01+01:00
+date = 2024-02-11T17:26:27+01:00
 +++
-## Introduction
 
-This is **bold** text, and this is *emphasized* text.
-A to jest mały tekst ode mnoie
+cześć stary :)
 
-Visit the [Hugo](https://gohugo.io) website!
+# Rozdział 1
+## Jego podpunkt
+Do widzenia...

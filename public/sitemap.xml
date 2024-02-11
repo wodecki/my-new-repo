@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wodecki.github.io/my-new-repo/posts/my-first-post/</loc>
-    <lastmod>2024-02-11T09:41:01+01:00</lastmod>
-  </url><url>
-    <loc>https://wodecki.github.io/my-new-repo/</loc>
-    <lastmod>2024-02-11T09:41:01+01:00</lastmod>
-  </url><url>
-    <loc>https://wodecki.github.io/my-new-repo/posts/</loc>
-    <lastmod>2024-02-11T09:41:01+01:00</lastmod>
-  </url><url>
-    <loc>https://wodecki.github.io/my-new-repo/categories/</loc>
-  </url><url>
-    <loc>https://wodecki.github.io/my-new-repo/tags/</loc>
+    <loc>https://example.org/posts/my-first-post/index.html</loc>
+    <lastmod>2024-02-11T17:26:27+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/index.html</loc>
+    <lastmod>2024-02-11T17:26:27+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/posts/index.html</loc>
+    <lastmod>2024-02-11T17:26:27+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.org/tags/index.html</loc>
   </url>
 </urlset>
